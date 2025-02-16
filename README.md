@@ -1,4 +1,4 @@
-## Welcome to TJ-overflow, Taejun Oh's repository 👋
+## Welcome to TJ-overflow 👋
 
 I am currently learning computer science and artificial intelligence to integrate new new knowledge and skills into my background in economics(Game Theory Ph.D) and business/finance consulting.
 

@@ -1,6 +1,6 @@
 ## Welcome to TJ-overflow 👋
 
-I am currently learning computer science and artificial intelligence to integrate new new knowledge and skills into my background in economics(Game Theory Ph.D) and business/finance consulting.
+I am currently learning computer science and artificial intelligence to integrate new knowledge and skills into my background in economics(Game Theory Ph.D) and business/finance consulting.
 
 I am eager to collaborate on machine learning applications in business consulting and economic analysis!!
 

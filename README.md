@@ -8,7 +8,7 @@ I am eager to collaborate on machine learning applications in business consultin
 
 ---------------------------------------------
 
-"the overflow of my brain would probably, in a state of freedom, have evaporated in a thousand follies" - The Count of Monte Cristo
+"the overflow of my brain would probably, in a state of freedom, have evaporated in a thousand follies" - Abbé Faria, The Count of Monte Cristo
 
 ---------------------------------------------
 **Education**
